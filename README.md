@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Augustine Chukwuemeka Eze 👋</h1>
 
 <p align="center">
-  <b>Backend Developer · Remote-Ready · Open to Opportunities in Canada 🇨🇦</b>
+  <b>Full Stack & Cloud Developer · Remote-Ready · Open to Opportunities in Canada 🇨🇦</b>
 </p>
 
 <p align="center">
-  <a href="chaug.jobs+github@gmail.com">
+  <a href="mailto:chaug.jobs+github@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/augustine-c-eze" target="_blank">
@@ -20,24 +20,35 @@
 
 ### 👨‍💻 About Me
 
-I'm a backend developer with hands-on experience building scalable, production-ready APIs and services using **Node.js/Express** and **Python/Django**. I enjoy designing clean architectures, working with both relational and graph databases, and containerizing applications for reliable deployments.
+I'm a full stack developer with a strong backend focus, building scalable APIs, cloud-native services, and data-driven applications. I work across the stack — from crafting Angular frontends to designing RESTful backends with **Node.js/Express** and **Python/Django**, deploying on **AWS** and **Google Cloud**.
 
-- 🌍 Based in Nigeria, actively seeking **remote backend roles** with Canadian companies
-- 🔭 Currently building projects with Node.js, Django, and Docker
+- 🌍 Based in Nigeria, actively seeking **remote roles** with Canadian companies
+- ☁️ Experienced deploying and managing services on **AWS** and **Google Cloud Platform**
+- 🔭 Currently building cloud-native applications with Docker and CI/CD pipelines
 - 🧠 Exploring graph database design with **Neo4j**
-- 💬 Ask me about REST API design, database modeling, or containerization
-- ⚡ Fun fact: I think in endpoints and schemas
+- 💬 Ask me about REST API design, cloud deployments, or database architecture
+- ⚡ Fun fact: I think in endpoints, schemas, and cloud architectures
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend & Frameworks**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+**Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 **Databases**
 
@@ -45,7 +56,7 @@ I'm a backend developer with hands-on experience building scalable, production-r
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-**Tools & Platforms**
+**Tools & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,13 +66,13 @@ I'm a backend developer with hands-on experience building scalable, production-r
 
 ### 📌 Featured Projects
 
-> *(Pin your 3–6 best repos on your GitHub profile page. Each one below is a placeholder — replace with your actual projects)*
+> *(Pin your 3–6 best repos on your GitHub profile page. Replace placeholders below with your actual projects)*
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🔗 [Project Name](https://github.com/emmyeze) | Brief description of what the project does and the problem it solves | Node.js, Express, MongoDB |
-| 🔗 [Project Name](https://github.com/emmyeze) | Brief description of what the project does and the problem it solves | Python, Django, MySQL |
-| 🔗 [Project Name](https://github.com/emmyeze) | Brief description of what the project does and the problem it solves | Node.js, Neo4j, Docker |
+| 🔗 [Project Name](https://github.com/emmyeze) | Brief description of what the project does and the problem it solves | Python, Django, MySQL, GCP |
+| 🔗 [Project Name](https://github.com/emmyeze) | Brief description of what the project does and the problem it solves | Angular, Node.js, AWS, Docker |
 
 ---
 
@@ -76,6 +87,6 @@ I'm a backend developer with hands-on experience building scalable, production-r
 
 ### 🤝 Let's Work Together
 
-I'm available for **remote backend contracts and full-time roles**, particularly with teams in Canada and North America. I'm comfortable with async communication, overlap timezones, and payment via Deel or Payoneer.
+I'm available for **remote full stack and backend contracts or full-time roles**, particularly with teams in Canada and North America. I'm comfortable with async communication, timezone overlap, and payment via Deel or Payoneer.
 
 > 📩 Reach me at **chaug.jobs@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/augustine-c-eze)
