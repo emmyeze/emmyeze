@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Augustine Chukwuemeka Eze 👋</h1>
+<h1 align="center">Hi, I'm Eze 👋</h1>
 
 <p align="center">
   <b>Full Stack & Cloud Developer · Remote-Ready · Open to Opportunities in Nigeria🇳🇬 and Canada🇨🇦</b>
