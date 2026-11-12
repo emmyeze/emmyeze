@@ -70,9 +70,9 @@ I'm a full stack developer with a strong backend focus, building scalable APIs, 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔗 [Project Name](https://github.com/emmyeze) | Brief description of what the project does and the problem it solves | Node.js, Express, MongoDB |
-| 🔗 [Project Name](https://github.com/emmyeze) | Brief description of what the project does and the problem it solves | Python, Django, MySQL, GCP |
-| 🔗 [Project Name](https://github.com/emmyeze) | Brief description of what the project does and the problem it solves | Angular, Node.js, AWS, Docker |
+| 🔗 [University Admissions Decisions support](https://apply.unizik.edu.ng) | A middleware that supports undergraduate admissions in Nigerian university. Applicants get real time update on if they are eligible for their selected program and get recommendations for other programmes that they are eligible for | Node.js, Express, Python, MySQL |
+| 🔗 [Betconvata](https://betconvata.korotelabs.com) | Converting betcodes from one bookmaker to another bookmaker| Python, Angular, Neo4j Graph database, Docker
+| 🔗 [inventory manager](https://inventory.korotelabs.com) | Manage inventory of a typical store in Nigeria | Angular, Node.js, AWS, Docker |
 
 ---
 
